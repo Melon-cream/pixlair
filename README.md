@@ -2,7 +2,8 @@
 
 Pixlair は、対話 `codex` セッションの横で動く小さな companion TUI です。殺風景なターミナルに可愛さを求めるものであり、生産性はありません。
 現状は Codex のみに対応しています。
-English version: [README-en.md]()
+
+English version: [README-en.md](https://github.com/Melon-cream/pixlair/blob/main/README-en.md)
 
 ## 機能
 
