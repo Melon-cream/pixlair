@@ -1,0 +1,8 @@
+[package]
+name = "pixlair"
+version = "0.1.0"
+edition = "2021"
+description = "Terminal-native avatar TUI companion for CLI agents"
+license = "MIT"
+
+[dependencies]
