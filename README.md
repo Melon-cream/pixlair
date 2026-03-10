@@ -13,6 +13,8 @@ English version: [README-en.md](https://github.com/Melon-cream/pixlair/blob/main
 - 端末表示向けに調整したコンパクトな Unicode アバター
 - 見た目確認用の `--demo` モード
 - 手動確認用の外部イベントフィード対応
+ 
+![demo](https://raw.githubusercontent.com/wiki/Melon-cream/pixlair/images/demo.gif)
 
 ## 必要環境
 
